@@ -2,6 +2,8 @@
 
 本章的目标不是写代码，而是建立最小 AI coding 工作方式。
 
+本章默认你已经有 GitHub 账号，并且可以使用 Claude Code、Codex 或同类 AI coding 工具。
+
 ## 本章目标
 
 完成本章后，你应该知道：
