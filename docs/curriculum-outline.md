@@ -98,12 +98,9 @@
 
 每章建议保持固定文件结构：
 
-- `README.md`：本章目标和学习方式；
-- `task.md`：本章要完成的固定任务；
-- `prompts.md`：给 AI 的提示词；
-- `concepts.md`：只做最小概念提醒；
-- `verify.md`：完成检查和自检点；
-- `reflection.md`：复盘问题和经验沉淀。
+- `README.md`：本章大纲、背景和学习路径；
+- `lesson.md`：学习内容、提示词对话和本章任务；
+- `self-check.md`：完成检查、自检问题和复盘。
 
 ## 大纲草案
 
