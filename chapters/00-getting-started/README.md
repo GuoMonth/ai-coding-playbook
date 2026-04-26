@@ -56,8 +56,12 @@ Issue 记录任务 -> 规格说明目标 -> 验证检查点提供反馈 -> AI co
 
 ## 本章文件
 
-- [task.md](task.md)：本章要完成的固定任务；
-- [prompts.md](prompts.md)：给 AI 的提示词；
-- [concepts.md](concepts.md)：本章只需要知道的概念；
-- [verify.md](verify.md)：完成检查和自检点；
-- [reflection.md](reflection.md)：完成后的复盘问题。
+建议按这个顺序阅读：
+
+1. [task.md](task.md)：先看本章要完成的固定任务；
+2. [prompts.md](prompts.md)：复制提示词，和 AI 对话；
+3. [concepts.md](concepts.md)：遇到不懂的词再查；
+4. [verify.md](verify.md)：完成后做检查；
+5. [reflection.md](reflection.md)：最后复盘。
+
+不需要先把所有概念读完。本教程更重视在任务和 AI 对话中逐步理解。
