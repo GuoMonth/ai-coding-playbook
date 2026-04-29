@@ -42,6 +42,8 @@
 
 课程大纲见：[docs/curriculum-outline.md](docs/curriculum-outline.md)。
 
+如果你想先快速建立软件开发的整体概念地图，可以阅读 [2 天速通路线](tracks/2-day-fast-track/README.md)。
+
 ## 适合谁
 
 - 想用 AI coding 做原型、工具或内部系统的产品经理；
